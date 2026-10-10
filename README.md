@@ -37,3 +37,38 @@ Technologies Used :
 * MongoDB
 * Fetch API
 * Git & GitHub
+
+  VehicleRentalManagementSystem/
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── Assets/
+│   │   │   └── Vehicles/
+│   │   ├── Components/
+│   │   ├── Pages/
+│   │   │   ├── HomePage.js
+│   │   │   ├── LoginPage.js
+│   │   │   ├── RegistrationPage.js
+│   │   │   ├── UserDashboard.js
+│   │   │   └── AdminDashboard.js
+│   │   ├── context/
+│   │   │   └── AuthContext.js
+│   │   ├── App.js
+│   │   └── index.js
+│   └── package.json
+│
+├── backend/
+│   ├── models/
+│   │   ├── user.js
+│   │   ├── vehicle.js
+│   │   └── booking.js
+│   ├── routes/
+│   │   ├── auth.js
+│   │   ├── vehicle.js
+│   │   └── booking.js
+│   ├── uploads/
+│   ├── server.js
+│   └── package.json
+│
+└── README.md
