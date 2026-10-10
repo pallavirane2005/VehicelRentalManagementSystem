@@ -26,3 +26,14 @@ Features :
 * Customer Bookings – View customer booking requests.
 * Booking Management – Accept or reject booking requests.
 * Booking Status Updates – Update booking status so users can see the latest decision.
+
+Technologies Used :
+* React.js
+* JavaScript
+* HTML 5
+* CSS3
+* Node.js
+* Express.js
+* MongoDB
+* Fetch API
+* Git & GitHub
